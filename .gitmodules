@@ -1,0 +1,3 @@
+[submodule "submodule"]
+	path = submodule
+	url = https://gitlab.electrifex.com/efx-cicd/nested-submodule.git
